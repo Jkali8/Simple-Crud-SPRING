@@ -1,0 +1,6 @@
+com\jkali\crud\exception\ResourceNotFoundException.class
+com\jkali\crud\controller\GameController.class
+com\jkali\crud\repository\GameRepository.class
+com\jkali\crud\CrudApplication.class
+com\jkali\crud\service\GameService.class
+com\jkali\crud\entity\Game.class
