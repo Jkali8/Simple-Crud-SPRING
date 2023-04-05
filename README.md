@@ -3,8 +3,8 @@ REALLY Simple CRUD api for a Game database made with Java Spring boot using the 
 
 ## To launch:
 ```bash
-git clone https://github.com/Jkali8/Simple-Crud-SPRING.git
-cd GameDB-Api
+git clone https://github.com/Jkali8/Simple-Crud-SPRING
+cd Simple-Crud-SPRING
 docker-compose build
 docker-compose up
 ```
